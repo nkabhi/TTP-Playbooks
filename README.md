@@ -1,4 +1,4 @@
-# TTP Playbook
+# TTP Playbook 
 
 > A scalable, community-friendly cybersecurity knowledge base for documenting **Tactics, Techniques & Procedures (TTPs)**, detection engineering content, incident lessons learned, and hands-on labs — mapped to [MITRE ATT&CK](https://attack.mitre.org/).
 
